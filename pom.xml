@@ -11,7 +11,7 @@
 
 	<name>simple</name>
 	<description>Demo project for Spring Boot</description>
-<!-- lookup parent from repository . vv-->
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
