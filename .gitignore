@@ -46,3 +46,4 @@ nbdist/
 *.rar
 *.tar
 *.zip
+*.DS_Store
